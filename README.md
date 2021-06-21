@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou o @juliocjuri
+- 👀 Tenho interesse 
+- 📚 Atualmente, estou aprendendo web design com HTML, JS e CSS. Além disso, estou começando com React Native, e, no ano de 2021, desenvolvendo um aplicativo-projeto.
+- 📫 Você pode me contatar pelo e-mail juliocesarjuriolli@gmail.com.
