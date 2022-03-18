@@ -1,4 +1,5 @@
-- 👋 Olá, eu sou o @juliocjuri;
+# 👋 Olá
+### Eu sou o @juliocjuri.
 - 👀 Tenho interesse em lhe ajudar a desenvolver o seu projeto;
-- 📚 Atualmente, estou aprendendo design Mobile, com React Native, e Web com HTML, JS e CSS. As aplicações que já desenvolvi você pode encontrar em meu perfil;
+- 📚 Algumas aplicações que já desenvolvi se encontram em meu perfil;
 - 📫 Você pode me contatar pelo e-mail juliocesarjuriolli@gmail.com.
