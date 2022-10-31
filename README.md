@@ -1,5 +1,5 @@
 # 👋 Olá
-### Eu sou o @juliocjuri.
-- 👀 Tenho interesse em lhe ajudar a desenvolver o seu projeto;
-- 📚 Algumas aplicações que já desenvolvi se encontram em meu perfil;
+### Eu sou Júlio Juriolli.
+- 👀 Sou desenvolvedor de software, tanto em embarcados quanto para web.
+- 📚 Possuo conhecimentos em JavaScript e NodeJS, linguagem C e em sistemas Linux.
 - 📫 Você pode me contatar pelo e-mail juliocesarjuriolli@gmail.com.
